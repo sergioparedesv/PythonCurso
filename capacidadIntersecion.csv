@@ -1,0 +1,13 @@
+interseciones;g/c ratio for the Transmilenio LEG;número efectivo de carriles;flujo de saturacion;capacidad buses hora sentido;capacidad pasajeros hora sentido
+Caracas x Calle 76;60;1.5;664;498;74700
+Caracas x Villavicencio;60;1.5;664;498;74700
+Autopista Norte x Calle 82;40;1.5;664;332;49800
+Caracas x Jimenes(direct);45;1.5;664;374;56100
+Jimenez x Caracas(direct SN);25;1.5;664;208;31200
+Jimenez x Caracas(Direct SN);25;1.0;664;138;20700
+Caracas x Jimenes(turns);20;1.0;542;90;13500
+Calle 8 sur x NQS;55;1.5;664;457;68550
+Calle 13 x Puente Aranda;75;1.5;664;623;93450
+Suba x Calle 100;25;1.5;664;208;31200
+Calle 80 Terminalacces;20;1.5;542;136;20400
+Av. Cali x Cepeda Vargas;20;1.0;664;110;16500
